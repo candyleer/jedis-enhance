@@ -3,7 +3,7 @@ package com.candy.cache.jedis;
 import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
 /**
  * 将空字符串转换为null;
- * @author candy
+ * @author candyleer
  *
  */
 public class JedisPool extends redis.clients.jedis.JedisPool {
